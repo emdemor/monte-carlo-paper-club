@@ -1,0 +1,17 @@
+https://medium.com/analytics-vidhya/monte-carlo-simulations-for-predicting-stock-prices-python-a64f53585662
+
+https://towardsdatascience.com/introduction-to-mcmc-1c8e3ea88cc9
+
+https://medium.com/analytics-vidhya/monte-carlo-simulations-for-predicting-stock-prices-python-a64f53585662
+
+https://towardsdatascience.com/introduction-to-mcmc-1c8e3ea88cc9
+
+
+https://events.mpifr-bonn.mpg.de/indico/event/30/material/slides/12.pdf
+
+linear regression with markov chain monte carlo
+
+https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a
+
+
+https://natan-katz.medium.com/metropolis-hastings-review-2dfeb0c3d0eb
